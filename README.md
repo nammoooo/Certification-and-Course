@@ -8,7 +8,7 @@
 
 [DevSkiller](https://devskiller.com/devskiller-tech-recruitment-certification-course/) - Tech Recruitment Certification Course.
 
-[Sourcing Certification](https://sourcingcertification.com/)- Sourcing, Training and Certification for Recruiters, founded by Irina Shamaeva.
+[Sourcing Certification](https://sourcingcertification.com/) - Sourcing, Training and Certification for Recruiters, founded by Irina Shamaeva.
 
 [Recruiter academy](https://www.recruiteracademy.com/training/certified-recruiter-program/) - Certified Recruiter Programs.
 
@@ -16,6 +16,16 @@
 
 [Recruitment.camp](https://recruitment.camp/courses) – Powerful source of the recruitment and sourcing content.
 
+
+## HR Training and Certification ##
+
+[Society for Human Resource Management (SHRM](https://www.shrm.org/) – Senior Certified Pprofessionals and Certified Pprofessionals for HR professionals.
+
+[HR Certification Institute (HRCI)](https://www.hrci.org/our-programs/our-certifications/overview) - Offers eight different certifications to meet specific HR need.
+
+[ATD](https://www.td.org/) - The World's Largest Talent Development Association.
+
+[The Josh Bersin Academy](https://bersinacademy.com/) - Prepares HR professionals for today's unprecedented challenges with world-class learning, a vast library of tools and resources, and a vibrant community for collaboration and networking.
 
 
 
