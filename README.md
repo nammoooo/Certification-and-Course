@@ -5,9 +5,9 @@
 - [Social Talent]( https://personal.socialtalent.com/) - Online sourcing, training platform to find, hire, onboard and engage top talent.<br />
 - [DevSkiller](https://devskiller.com/devskiller-tech-recruitment-certification-course/) - Tech Recruitment Certification Course. <br />
 - [Sourcing Certification](https://sourcingcertification.com/) - Sourcing, Training and Certification for Recruiters, founded by Irina Shamaeva. <br />
-- [Recruiter academy](https://www.recruiteracademy.com/training/certified-recruiter-program/) - Certified Recruiter Programs. <br />
+- [Recruiter Academy](https://www.recruiteracademy.com/training/certified-recruiter-program/) - Certified Recruiter Programs. <br />
 - [Sourcecon Academy](https://www.eretraining.com/p/sourcecon-academy) – The  comprehensive online sourcing training course. <br />
-- [Recruitment.camp](https://recruitment.camp/courses) – Powerful source of the recruitment and sourcing content. <br />
+- [Recruitment Camp](https://recruitment.camp/courses) – Powerful source of the recruitment and sourcing content. <br />
 
 
 ## HR Training and Certification ##
