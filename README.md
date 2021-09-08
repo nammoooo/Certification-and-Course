@@ -8,7 +8,7 @@
 - [Recruiter Academy](https://www.recruiteracademy.com/training/certified-recruiter-program/) - Certified Recruiter Programs. <br />
 - [Sourcecon Academy](https://www.eretraining.com/p/sourcecon-academy) – The  comprehensive online sourcing training course. <br />
 - [Recruitment Camp](https://recruitment.camp/courses) – Powerful source of the recruitment and sourcing content. <br />
-- [Hirist](https://certify.hirist.com/) - Explore Our Free Certification Courses Tech Recruitment & Employer Branding. 
+- [Hirist](https://certify.hirist.com/) - Explore Free Certification Courses Tech Recruitment & Employer Branding. 
 
 
 ## HR Training and Certification ##
