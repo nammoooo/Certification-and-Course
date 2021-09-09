@@ -29,7 +29,7 @@
 
 - [The Robot-Proof Recruiter](https://www.amazon.co.in/Robot-Proof-Recruiter-Survival-Recruitment-Professionals/dp/0749493224/) - by Katrina Collier
 - [Full Stack Recruiter: New Secrets Revealed](https://www.amazon.in/Full-Stack-Recruiter-Jan-Tegze/dp/8027076994/ref=sr_1_1)  - by Jan Tegze
-- [The Joy of Search: A Google Insider's Guide to Going Beyond the Basics](https://www.amazon.in/Joy-Search-Google-Insiders-Beyond/dp/0262042878) - by Daniel M Russell - Google research scientist.
+- [The Joy of Search: A Google Insider's Guide to Going Beyond the Basics](https://www.amazon.in/Joy-Search-Google-Insiders-Beyond/dp/0262042878) - by Daniel M Russell, Google research scientist.
 
 
 
