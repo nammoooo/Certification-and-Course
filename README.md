@@ -36,6 +36,7 @@
 
 
 
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/Certification-and-Course?color=red&logo=github"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nammoooo/Certification-and-Course?logo=Github">
 
 
 
