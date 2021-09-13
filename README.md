@@ -32,8 +32,17 @@
 - [The Joy of Search: A Google Insider's Guide to Going Beyond the Basics](https://www.amazon.in/Joy-Search-Google-Insiders-Beyond/dp/0262042878) - by Daniel M Russell, Google research scientist.
 
 
+<h2>Talent Conferences</h2>
 
 
+ - [Linkedin Talent Connect](https://www.talentconnect2022.com/)
+ - [SourceCon Digital](https://digital.sourcecon.com/)
+ - [ERE Digital](https://digital.ere.net/#ticketspiceForm)
+ - [Indeed Interactive](https://indeedinteractive.com/)
+ - [SHRM Tech](https://www.shrm.org/events/shrm-india-events/pages/shrm-techapac-21.aspx)
+ - [HR Transform](https://transform.us/#sponsors)
+ - [Talent42](https://www.talent42.com/home)
+ - [SOSU](https://sourcingsummit.net/sosuv/speakers/)
 
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/Certification-and-Course?color=red&logo=github"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nammoooo/Certification-and-Course?logo=Github">
